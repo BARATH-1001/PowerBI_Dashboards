@@ -1,7 +1,3 @@
-Here’s a detailed and structured description for your GitHub repository showcasing your Power BI dashboard projects:  
-
----
-
 # **Power BI Dashboard Projects 📊**  
 
 Welcome to my **Power BI Dashboard Projects** repository! This collection features interactive and data-driven dashboards across various domains, leveraging **Power BI’s powerful visualization, DAX calculations, and Power Query transformations** to derive actionable insights.  
