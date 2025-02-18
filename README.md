@@ -40,6 +40,19 @@ Welcome to my **Power BI Dashboard Projects** repository! This collection featur
 
 ---
 
+### 4️⃣ Amazon Prime Dashboard 📺  
+📌 **Objective:** Analyze Amazon Prime’s content library, user engagement, and subscription trends to gain business insights.  
+
+🔹 **Key Features:**  
+- **Content Analysis:** Breakdown of movies and TV shows by genre, rating, and release year.  
+- **User Engagement Metrics:** Watch time, popular genres, and user ratings trends.  
+- **Subscription Insights:** Growth trends, retention rates, and regional subscriber distribution.  
+- **Revenue Analysis:** Subscription revenue trends and impact of promotions.  
+
+📈 **Insights:** Helps content strategists and business analysts understand user preferences, optimize content recommendations, and drive subscriber growth strategies.  
+
+---
+
 ## 📂 **Repository Contents**  
 - **`.pbix` Files** – Power BI dashboard files for hands-on exploration  
 - **Datasets** (if publicly available) – CSV, Excel, or other sources  
